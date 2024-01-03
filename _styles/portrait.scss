@@ -35,6 +35,11 @@
   border-radius: 999px;
   object-fit: cover;
   box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.portrait-image:hover { // Jay added this feature
+  transform: scale(1.05);
 }
 
 .portrait[data-style="tiny"] .portrait-image {
@@ -69,6 +74,10 @@
   background: var(--background);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
+}
+
+.portrait-role { // Jay added
+  color: black;
 }
 
 .portrait[data-style="small"] .portrait-role .icon {

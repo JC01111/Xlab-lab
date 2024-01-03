@@ -30,15 +30,15 @@ nav:
 
 {% endcapture %} -->
 
+# Graduate students
+
+{% include list.html data="members" component="portrait" filters="role: graduate" %}
+
 # undergraduate students
 
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 <!-- {% include grid.html style="square" content=content %} -->
-
-# Graduate students
-
-{% include list.html data="members" component="portrait" filters="role: graduate" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

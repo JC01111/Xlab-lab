@@ -7,12 +7,13 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@JC01111.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: JC01111
-  twitter: JC01111
-  youtube: JC01111
+  email: 
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
+  github: 
+  linkedin: 
+  # twitter: JC01111
+  # youtube: JC01111
 
 ### jekyll settings
 
