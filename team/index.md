@@ -16,11 +16,8 @@ nav:
 <!-- {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %}
 
-# Current Students
-
-{% include section.html %}
 
 <!-- {% capture content %}
 
@@ -40,12 +37,15 @@ nav:
 
 <!-- {% include grid.html style="square" content=content %} -->
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 # Alumni and Visiting Scholars
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+
+# Our Mascot
+
+{% include list.html data="members" component="portrait" filters="role: mascot" %}
+
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: alumni|visitor" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %}
