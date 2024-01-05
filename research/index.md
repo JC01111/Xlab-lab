@@ -7,15 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-This is the research area.
+Some publications here.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
 
 {% include section.html %}
+
+## Most recent
+
+
 
 ## All
 

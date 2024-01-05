@@ -38,8 +38,8 @@ Brah brah brah...
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="tools"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Brah brah brah...
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="tools"
+  title="Our tools"
   flip=true
   style="bare"
   text=text

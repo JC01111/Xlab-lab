@@ -5,9 +5,9 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}tools
 
-This is the projects area.
+Some useful tools we developed.
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -21,6 +21,6 @@ This is the projects area.
 
 {% include section.html %}
 
-## More
+## All
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}

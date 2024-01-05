@@ -41,7 +41,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
-# Our Mascot
+# Mascot
 
 {% include list.html data="members" component="portrait" filters="role: mascot" %}
 

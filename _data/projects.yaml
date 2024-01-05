@@ -1,47 +1,40 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Cool Dataset
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Tutorial for Chimera
+  subtitle: .md
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/JC01111/Chimera_tutorial
+  description: An introduction of Chimera, some basic tasks.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Resource
+    - Tutorial
+    - Chimera
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Color tool
+  subtitle: .py
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/JC01111/Yix_lab_tools/blob/main/color_tool.py
+  description: A program can automatically color the difference between two proteins.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - Python
+    - Chimera
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Protein Sequence Compare
+  subtitle: .py
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/JC01111/Yix_lab_tools/blob/main/sequence_compare.py
+  description: A program to compare and output the difference of protein sequence.
+  # repo: greenelab/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Python
+    - Chimera

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-This is the contact area.
+Contact us in these following ways.
 
 {%
   include button.html

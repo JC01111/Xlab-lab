@@ -1,6 +1,6 @@
 ---
 name: Kariegh Gammon
-image: images/portraits/kareigh.jpg
+image: images/portraits/Kareigh.jpg
 description: 
 role: undergrad
 links:
