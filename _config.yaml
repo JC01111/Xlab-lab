@@ -2,7 +2,9 @@
 title: XLAB
 subtitle: 
 description: 
-header: images/background.jpg
+logo-text: false
+show-title: false
+header: images/header.jpeg
 footer: images/background.jpg
 
 # site social media and other links
