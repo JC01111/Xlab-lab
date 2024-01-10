@@ -1,1 +1,1 @@
-Sitemap: /XLAB/sitemap.xml
+Sitemap: /sitemap.xml
