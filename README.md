@@ -1,4 +1,4 @@
 
 # JC01111's Website
 
-Visit **[xlab.kennesaw.edu](http://xlab.kennesaw.edu)** 🚀
+Visit **[jc01111.github.io/XLAB](https://jc01111.github.io/XLAB)** 🚀
