@@ -7,20 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}tools
 
-Some useful tools we developed.
+Useful tools we developed for research purposes.
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include section.html %}
+{% include section.html %} 
 
-## Featured
+<!-- ## Featured -->
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## All
+<!-- ## All -->
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}

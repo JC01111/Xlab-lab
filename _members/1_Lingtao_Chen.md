@@ -1,7 +1,7 @@
 ---
 name: Lingtao Chen
 image: images/portraits/lingtao.jpg
-description: Research Assistant
+description: PhD Research Assistant
 role: graduate
 links:
   email: lchen25@students.kennesaw.edu

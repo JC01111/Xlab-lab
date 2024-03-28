@@ -1,9 +1,11 @@
 ---
 ---
 
-# XLAB
+<!-- # XLAB -->
 
-An engaging 1-3 sentence description of your lab.
+Kennesaw State University X-Lab
+offers a dynamic environment where undergraduate and graduate students collaborate with faculty mentors to conduct cutting-edge research across diverse disciplines.
+Our multidisciplinary team aims to revolutionize healthcare through innovative science, including bioengineering, drug discovery, dynamics simulations.
 
 {% include section.html %}
 

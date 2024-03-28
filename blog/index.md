@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Latest news here.
 
-{% include section.html %}
+<!-- {% include section.html %} 
 
 {% include search-box.html %}
 
