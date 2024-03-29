@@ -28,7 +28,7 @@ Brah brah brah...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://www.mdpi.com/biotech/biotech-13-00003/article_deploy/html/images/biotech-13-00003-g001.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Brah brah brah...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools.jpeg"
   link="tools"
   title="Our tools"
   flip=true
@@ -61,7 +61,7 @@ Brah brah brah...
 
 {% capture text %}
 
-Brah brah brah...
+Our fantasy team
 
 {%
   include button.html
@@ -76,7 +76,7 @@ Brah brah brah...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/post/11_03_23_2.jpeg"
   link="team"
   title="Our Team"
   text=text

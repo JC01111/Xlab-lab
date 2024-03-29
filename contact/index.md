@@ -12,20 +12,20 @@ nav:
 {%
   include button.html
   type="email"
-  text="xxx@kennesaw.edu"
-  link="xxx@kennesaw.edu"
+  text="yxie11@kennesaw.edu"
+  link="https://mail.google.com/mail/?view=cm&to=yxie11@kennesaw.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(xxx)xxx-xxxx"
-  link="+1-555-867-5309"
+  text="+1 (470) 578-3803"
+  link="+1-470-578-3803"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location"
+  link="https://maps.app.goo.gl/XaZddjDP3k7rcPzz6"
 %}
 
 {% include section.html %}
