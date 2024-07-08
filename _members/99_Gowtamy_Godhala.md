@@ -6,7 +6,7 @@ role: graduate
 links:
   email: ggodhala@students.kennesaw.edu
   github: gowtamyreddy
-  linkedin: gowtamyreddy/
+  linkedin: in/gowtamyreddy/
 ---
 <!-- Personal description goes here -->
 Hello, I'm Gowtamy Reddy Godhala, a dedicated computer science student currently pursuing a Master's in Information Technology at Kennesaw State University. I hold a Bachelor of Technology in Computer Science from the esteemed Gandhi Institute of Technology & Management in India.

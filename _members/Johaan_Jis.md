@@ -6,7 +6,7 @@ role: undergrad
 links:
   email: jkathila@students.kennesaw.edu
   github: johaankjis
-  linkedin: johaan-kathilankal-jis-2517ba241
+  linkedin: in/johaan-kathilankal-jis-2517ba241
 ---
 <!-- Personal description goes here -->
 Hello, my name is Johaan Kathilankal Jis and I am a freshmen at Kennesaw State

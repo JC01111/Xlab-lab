@@ -127,7 +127,7 @@ linkedin:
   icon: fa-brands fa-linkedin
   text: LinkedIn
   tooltip: LinkedIn
-  link: https://www.linkedin.com/in/$VALUE
+  link: https://www.linkedin.com/$VALUE
 
 # alerts
 

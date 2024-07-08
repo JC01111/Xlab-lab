@@ -7,7 +7,7 @@ aliases:
   - Yixin Xie
 links:
   # home-page: https://janesmith.com
-  linkedin: chloe-xie-66249b1a2
+  linkedin: in/chloe-xie-66249b1a2
   orcid: 0000-0002-4436-3474
   google-scholar: SmQ5WHMAAAAJ&hl=en&authuser=1&oi=sra
 ---

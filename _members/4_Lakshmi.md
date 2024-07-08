@@ -5,7 +5,7 @@ description: Research Assistant
 role: graduate
 links:
   email: lpenmets@students.kennesaw.edu
-  linkedin: lakshmi-pranathi-penmetsa-0018a1300
+  linkedin: in/lakshmi-pranathi-penmetsa-0018a1300
   github: penmetsa05
 ---
 <!-- Personal description goes here -->

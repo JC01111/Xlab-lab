@@ -6,7 +6,7 @@ role: alumni
 links:
   email: jc01@berkeley.edu
   github: jc01111
-  linkedin: jaychen01
+  linkedin: in/jaychen01
   orcid: 0009-0005-3862-282X
   google-scholar: sqF113wAAAAJ&hl=en&authuser=1
 ---
