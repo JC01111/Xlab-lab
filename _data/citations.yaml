@@ -12,8 +12,9 @@
   date: '2024-05-14'
   link: https://doi.org/gtvnc3
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/fixed_point.png
 - id: doi:10.3390/biotech13010003
   title: 'Exploring DNA Damage and Repair Mechanisms: A Review with Computational
     Insights'
@@ -64,8 +65,9 @@
   date: '2023-07-25'
   link: https://doi.org/gtcdx3
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/ijms241511928.png
 - id: doi:10.3390/life13040981
   title: Phosphorylation of Tyrosine 841 Plays a Significant Role in JAK3 Activation
   authors:
@@ -81,8 +83,9 @@
   date: '2023-04-10'
   link: https://doi.org/gtcdx4
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/life13040981.png
 - id: doi:10.3390/ijms23042035
   title: Computational Study on E-Hooks of Tubulins in the Binding Process with Kinesin
   authors:
@@ -92,8 +95,9 @@
   date: '2022-02-12'
   link: https://doi.org/gtcdx5
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/ijms23042035.jpg
 - id: doi:10.3390/pathogens11020238
   title: The pH Effects on SARS-CoV and SARS-CoV-2 Spike Proteins in the Process of
     Binding to hACE2
@@ -107,8 +111,9 @@
   date: '2022-02-11'
   link: https://doi.org/gtcdx6
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/11020238.png
 - id: doi:10.1096/FASEBJ.2022.36.S1.0R568
   title: "Computational Study on the Electrostatic Interactions between Uracil\u2010\
     DNA Glycosylase (UDG) and DNA"
@@ -119,8 +124,9 @@
   date: '2022-05-01'
   link: https://doi.org/gtcdx7
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/0R568.png
 - id: doi:10.3389/fmolb.2021.784303
   title: 'Computational Saturation Mutagenesis of SARS-CoV-1 Spike Glycoprotein: Stability,
     Binding Affinity, and Comparison With SARS-CoV-2'
@@ -138,8 +144,9 @@
   date: '2021-12-09'
   link: https://doi.org/gtcdx8
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/784303.jpg
 - id: doi:10.3389/fmolb.2021.718587
   title: 'Computational Study on DNA Repair: The Roles of Electrostatic Interactions
     Between Uracil-DNA Glycosylase (UDG) and DNA'
@@ -153,8 +160,9 @@
   date: '2021-08-06'
   link: https://doi.org/gtcdx9
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/718587.jpg
 - id: doi:10.1101/2021.06.30.450547
   title: 'Computational saturation mutagenesis of SARS-CoV-1 spike glycoprotein: stability,
     binding affinity, and comparison with SARS-CoV-2'
@@ -172,8 +180,9 @@
   date: '2021-06-30'
   link: https://doi.org/gtcdzb
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/784303.jpg
 - id: eid:2-s2.0-85118005743
   title: 'DG-Labeler and DGL-MOTS dataset: Boost the autonomous driving perception'
   publisher: arXiv
@@ -194,8 +203,9 @@
   date: '2021-01-01'
   link: https://doi.org/gtcdzd
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/2021120.jpg
 - id: doi:10.1016/j.csbj.2021.01.020
   title: Hybrid method for representing ions in implicit solvation calculations
   authors:
@@ -210,8 +220,9 @@
   date: '2021-01-01'
   link: https://doi.org/gtcdzf
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/01020.jpg
 - id: doi:10.3389/fmolb.2020.627087
   title: 'StructureMan: A Structure Manipulation Tool to Study Large Scale Biomolecular
     Interactions'
@@ -226,8 +237,9 @@
   date: '2021-01-11'
   link: https://doi.org/gtcdzg
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/627087.jpg
 - id: doi:10.1142/S2737416520420089
   title: The Electrostatic Features of Dengue Virus Capsid Assembly
   authors:
@@ -239,8 +251,9 @@
   date: '2021-03-01'
   link: https://doi.org/gtcdzh
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/S2737416520420089.jpg
 - id: doi:10.1142/S0219633620400027
   title: A computational model of ESAT-6 complex in membrane
   authors:
@@ -257,8 +270,9 @@
   date: '2020-03-17'
   link: https://doi.org/gg7jn2
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/S0219633620400027.jpg
 - id: doi:10.1142/S0219633620410035
   title: Computational analysis of hereditary spastic paraplegia mutations in the
     kinesin motor domains of KIF1A and KIF5A
@@ -274,8 +288,9 @@
   date: '2020-08-05'
   link: https://doi.org/gtcdzj
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/S0219633620410035.jpeg
 - id: doi:10.1109/MCSE.2020.3015511
   title: Revealing the Mechanism of SARS-CoV-2 Spike Protein Binding With ACE2
   authors:
@@ -293,8 +308,9 @@
   date: '2020-11-01'
   link: https://doi.org/gtcdzk
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/3015511.gif
 - id: doi:10.3389/fmolb.2020.591873
   title: Spike Proteins of SARS-CoV and SARS-CoV-2 Utilize Different Mechanisms to
     Bind With Human ACE2
@@ -312,8 +328,9 @@
   date: '2020-12-09'
   link: https://doi.org/gtcdzm
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/591873.jpg
 - id: doi:10.1515/cmb-2019-0005
   title: Using computational approaches to study dengue virus capsid assembly
   authors:
@@ -329,5 +346,6 @@
   date: '2019-01-01'
   link: https://doi.org/gtcdzp
   orcid: 0000-0002-4436-3474
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/cmb-2019-0005.png

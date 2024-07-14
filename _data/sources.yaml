@@ -25,3 +25,56 @@
 - id: doi:10.3390/biotech13010003
   image: https://www.mdpi.com/biotech/biotech-13-00003/article_deploy/html/images/biotech-13-00003-g001.png
   
+- id: doi:10.1145/3664923
+  image: ../images/publications/fixed_point.png
+
+- id: doi:10.1142/S0219633620400027
+  image: ../images/publications/S0219633620400027.jpg
+
+- id: doi:10.3389/fmolb.2021.784303
+  image: ../images/publications/784303.jpg
+
+- id: doi:10.1101/2021.06.30.450547
+  image: ../images/publications/784303.jpg
+
+- id: doi:10.1142/S0219633620410035
+  image: ../images/publications/S0219633620410035.jpeg
+
+- id:  doi:10.3389/fmolb.2021.718587
+  image: ../images/publications/718587.jpg
+
+- id: doi:10.3390/ijms23042035
+  image: ../images/publications/ijms23042035.jpg
+
+- id: doi:10.1096/FASEBJ.2022.36.S1.0R568
+  image: ../images/publications/0R568.png
+
+- id: doi:10.3934/MBE.2021120
+  image: ../images/publications/2021120.jpg
+
+- id: doi:10.1016/j.csbj.2021.01.020
+  image: ../images/publications/01020.jpg
+
+- id: doi:10.3390/ijms241511928
+  image: ../images/publications/ijms241511928.png
+
+- id: doi:10.3390/life13040981
+  image: ../images/publications/life13040981.png
+
+- id: doi:10.1109/MCSE.2020.3015511
+  image: ../images/publications/3015511.gif
+
+- id: doi:10.3389/fmolb.2020.591873
+  image: ../images/publications/591873.jpg
+
+- id: doi:10.3389/fmolb.2020.627087
+  image: ../images/publications/627087.jpg
+
+- id: doi:10.1142/S2737416520420089 
+  image: ../images/publications/S2737416520420089.jpg
+
+- id: doi:10.3390/pathogens11020238 
+  image: ../images/publications/11020238.png
+
+- id: doi:10.1515/cmb-2019-0005
+  image: ../images/publications/cmb-2019-0005.png

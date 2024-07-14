@@ -11,4 +11,4 @@ links:
   google-scholar: sqF113wAAAAJ&hl=en&authuser=1
 ---
 <!-- Personal description goes here -->
-Hi, I'm Jay. I just graduated from UC Berkeley in B.A. Computer Science. I am the web developer of this website. I contributed in several researches and developed some tools during experiments.
+Hi, I'm Jay. I graduated from UC Berkeley in B.A. Computer Science. I am the web developer of this website. I contributed in several researches and developed some tools during experiments.
