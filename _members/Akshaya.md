@@ -2,7 +2,7 @@
 name: Akshaya Ranjit
 image: images/portraits/akshaya.jpeg
 description: Research Assistant
-role: undergrad
+role: visiting
 links:
   email: aranjit@kennesaw.edu
   # github: 

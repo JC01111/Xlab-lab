@@ -2,7 +2,7 @@
 name: Qiaomu Li
 image: images/portraits/Qiaomu.jpg
 description: PhD Research Assistant
-role: graduate
+role: visiting
 links:
   email: qli12@students.kennesaw.edu
   linkedin: in/qiaomu-li-1b5b0014a

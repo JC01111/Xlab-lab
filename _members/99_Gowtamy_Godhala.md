@@ -2,7 +2,7 @@
 name: Gowtamy Reddy Godhala
 image: images/portraits/Gowtamy_Godhala.jpeg
 description: Teaching Assistant
-role: graduate
+role: alumni
 links:
   email: ggodhala@students.kennesaw.edu
   github: gowtamyreddy

@@ -37,9 +37,13 @@ nav:
 
 <!-- {% include grid.html style="square" content=content %} -->
 
-# Alumni and Visiting Scholars
+# Alumni
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
+
+# Visiting Scholars
+
+{% include list.html data="members" component="portrait" filters="role: visiting" %}
 
 # Mascot
 

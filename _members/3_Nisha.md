@@ -2,7 +2,7 @@
 name: Nisha Bagdwal
 image: images/portraits/Nisha.jpg
 description: Research Assistant
-role: graduate
+role: alumni
 links:
   email: nbagdwal@students.kennesaw.edu
   github: Nisha-Bagdwal
