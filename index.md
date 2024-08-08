@@ -13,7 +13,7 @@ Our multidisciplinary team aims to revolutionize healthcare through innovative s
 
 {% capture text %}
 
-Brah brah brah...
+X-Lab is committed to innovation and advancing knowledge in the field of bioengineering. With a focus on nature and living systems, we aim to enhance health, lengthen life and reduce illness. Read our latest studies and stay informed about our progress.
 
 {%
   include button.html
@@ -28,7 +28,7 @@ Brah brah brah...
 
 {%
   include feature.html
-  image="https://www.mdpi.com/biotech/biotech-13-00003/article_deploy/html/images/biotech-13-00003-g001.png"
+  image="../images/front_research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -36,7 +36,7 @@ Brah brah brah...
 
 {% capture text %}
 
-Brah brah brah...
+Browse our tools which may get you faster research results back.
 
 {%
   include button.html
@@ -53,7 +53,7 @@ Brah brah brah...
   include feature.html
   image="images/tools.jpeg"
   link="tools"
-  title="Our tools"
+  title="Our Tools"
   flip=true
   style="bare"
   text=text
@@ -61,7 +61,7 @@ Brah brah brah...
 
 {% capture text %}
 
-Our fantasy team
+Our team is made up of brilliant minds from our principal investigator Chole Yixin Xie to our amazing graduate and undergraduate students. Learn more about our dedicated team including their background and contributions to our lab's success.
 
 {%
   include button.html
