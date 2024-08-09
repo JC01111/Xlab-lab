@@ -10,6 +10,6 @@ Hi, I'm Oreo. I like Cookies <i class="fa-solid fa-cookie-bite"></i>. I got my L
 <br>
 
 <center>
-    <img src="../images/portraits/oreo2.jpeg" alt='Oreo' width=400>
+    <img src="../images/portraits/oreo2.jpg" alt='Oreo' width=400>
     <figcaption>Guess where I am? Bark Bark...</figcaption>
 </center>
