@@ -1,7 +1,7 @@
 ---
 name: Toni Kamau
 image: images/portraits/Toni.jpg
-description: First Year Scholar
+description: Summer Research Intern
 role: undergrad
 links:
   email: ekamau5@students.kennesaw.edu

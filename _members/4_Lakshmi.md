@@ -2,7 +2,7 @@
 name: Penmetsa Lakshmi Pranathi
 image: images/portraits/Lakshmi.jpeg
 description: Research Assistant
-role: graduate
+role: alumni
 links:
   email: lpenmets@students.kennesaw.edu
   linkedin: in/lakshmi-pranathi-penmetsa-0018a1300

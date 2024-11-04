@@ -1,7 +1,7 @@
 ---
 name: Johaan Kathilankal Jis
 image: images/portraits/Johaan.jpeg
-description: First Year Scholar
+description: Research Assistant
 role: undergrad
 links:
   email: jkathila@students.kennesaw.edu

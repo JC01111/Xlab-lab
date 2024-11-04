@@ -1,7 +1,7 @@
 ---
 name: Akshaya Ranjit
 image: images/portraits/akshaya.jpeg
-description: Research Assistant
+description: Summer Research Intern
 role: visiting
 links:
   email: aranjit@kennesaw.edu

@@ -1,7 +1,7 @@
 ---
 name: Bon Varlet
 image: images/portraits/Bon.jpeg
-description: Research Assistant
+description: Media Content
 role: undergrad
 links:
   email: bvarlet@students.kennesaw.edu
